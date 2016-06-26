@@ -1,12 +1,16 @@
-There are two universal questions people ask themselves when deciding whether to join your meetup. The first is **‘ARE they Like me?** The second question is **‘WILL they like me?’**  So when someone is looking at a meetup page their choice to attend an event will be influenced by whether what they see about your group seems as if it will ‘fit’ them. and whether they continue to attend will depend a lot on how they’re received when they come to your group.
+There are two universal questions people ask themselves when deciding whether to join your meetup. The first is **‘ARE they Like me?** The second question is **‘WILL they like me?’**  
+
+So when someone is looking at a meetup page, their choice to attend an event will be influenced by whether what they see about your group seems as if it will ‘fit’ them. and whether they continue to attend will depend a lot on how they’re received when they come to your group.
 
 ### ARE they like Me?
 
-The first opportunity we have to make an impression and demonstrate what your group members are like to new inquirers starts with our Meetup page.
+The first opportunity we have to make an impression and demonstrate to new inquirers what your group members are like it starts with your Meetup page.
 
 ### About Pages
 
-Your About Page is where you have the first opportunity to introduce your purpose or goal. This is where you put your mission statement and where you should be very clear about what you’re about. It may not just be enough to say “we’re a group about WordPress.” If however, you say “we’re WordPress users who teach and learn from each other, who enjoy sharing knowledge, and who are passionate about encouraging others into WordPress and Open Source’” we’re introducing both the mission to advance WordPress but we’re also introducing the inclusive nature of the kinds of people who will be at an event. If you're interested in a template for that page you can edit and adjust for your own group, [you can find that here](resources/aboutpage.md)
+Your About Page is where you have the first opportunity to introduce your purpose or goal. This is where you put your mission statement and where you should be very clear about what you’re about. It may not just be enough to say “we’re a group about WordPress.” If however, you say “we’re WordPress users who teach and learn from each other, who enjoy sharing knowledge, and who are passionate about encouraging others into WordPress and Open Source’” you’re introducing both the mission to advance WordPress but also the inclusive nature of the kinds of people who will be at an event.
+
+If you're interested in a template for that page you can edit and adjust for your own group, [you can find that here](resources/aboutpage.md)
 
 ###Custom About pages on Meetup
 
