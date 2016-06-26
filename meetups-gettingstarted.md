@@ -1,6 +1,6 @@
 ### What sort of meetup should I organize?
 
-Your WordPress meetup event can be anything you like. What are the people you've talked to about setting up your meetup interested in? Start there.  If you're looking for inspiration about the kinds of meetups that people do, here are some ideas: https://make.wordpress.org/community/handbook/meetup-organizer-handbook/planning-a-variety-of-events/
+Your WordPress meetup event can be anything you like. What are the people you've talked to about setting up your meetup interested in? Start there.  If you're looking for inspiration about the kinds of meetups that people do, [here are some ideas:](https://make.wordpress.org/community/handbook/meetup-organizer-handbook/planning-a-variety-of-events/)
 
 ### Where should I hold my meetup?
 
@@ -50,7 +50,9 @@ Event organizers for meetups should follow [the same rules as WordCamp](https://
 
 ### Can I get sponsors for my meetup?
 
-Please read the following post before you continue. http://make.wordpress.org/community/2014/05/07/meetup-sponsorships-and-other-local-community-stuff/ There are no specific rules around sponsorship, other than [the set of expectations for participation with official WordPress events](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/become-an-organizer/representing-wordpress/). However, we want local communities to focus on sharing knowledge and connecting with each other, not on providing a cheap marketing platform. Because handling money for a community event can get complicated quickly (taxes! transparency!), we suggest that any and all sponsorship be approached as "in-kind" -- for example, when a company sponsors by ordering pizzas or a sandwich platter for a certain event. Meetup group organizers should not use the group as a sponsorship/marketing platform, according to [the five good-faith rules](https://make.wordpress.org/community/meetups/).
+Please read the following [post before you continue.](http://make.wordpress.org/community/2014/05/07/meetup-sponsorships-and-other-local-community-stuff/)
+
+There are no specific rules around sponsorship, other than [the set of expectations for participation with official WordPress events](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/become-an-organizer/representing-wordpress/). However, we want local communities to focus on sharing knowledge and connecting with each other, not on providing a cheap marketing platform. Because handling money for a community event can get complicated quickly (taxes! transparency!), we suggest that any and all sponsorship be approached as "in-kind" -- for example, when a company sponsors by ordering pizzas or a sandwich platter for a certain event. Meetup group organizers should not use the group as a sponsorship/marketing platform, according to [the five good-faith rules](https://make.wordpress.org/community/meetups/).
 
 ### How do I get people to attend my meetup?
 
