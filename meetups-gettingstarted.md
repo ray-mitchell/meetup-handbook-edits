@@ -63,6 +63,7 @@ There are many ways to help attract members to your event. Please keep in mind t
 *   Find a time when people can attend.
 *   Choose a location that is easy to find and has easy or free parking.
 *   If you select a topic choose one that you are interested in or knowledgeable about.
+*   Optimize your meetup.com page/s and welcome email to give people great information about your meetup There are more ideas on how to do that, and [resources to help you do that on this page here]()
 
 ### How do I spread the word about our metup?:
 
