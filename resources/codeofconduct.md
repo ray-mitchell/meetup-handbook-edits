@@ -44,5 +44,5 @@ We expect all community members (sponsors, volunteers, speakers, attendees, and 
 ### 8. Contact Information
 We're available via the 'Contact' button over there in the left hand sidebar
 
-#### 9. License And Attribution
+### 9. License And Attribution
 This Code of Conduct is a direct swipe from the awesome work of Open Source Bridge, but with our event information substituted. The original is available at http://opensourcebridge.org/about/code-of-conduct/ and is released under a Creative Commons Attribution-ShareAlike license.
