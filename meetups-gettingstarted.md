@@ -2,7 +2,7 @@
 
 Your WordPress meetup event can be anything you like. What are the people you've talked to about setting up your meetup interested in? Start there.  If you're looking for inspiration about the kinds of meetups that people do, [here are some ideas:](https://make.wordpress.org/community/handbook/meetup-organizer-handbook/planning-a-variety-of-events/)
 
-### Where should I hold my meetup?
+### Where should we hold our meetup?
 
 Where you hold your meetup will depend on the kind of meetup you have! If it's a casual hangout, then coffee shops and public spaces are a great idea. If you're keen on doing some educational or informational meetups you may want to look at your city or town’s public education locations.
 
@@ -21,7 +21,7 @@ Here are some locations that other WordPress meetup/user groups have found work 
 *   food court at a mall
 
 
-### How do I post my meetup on meetup.com?
+### How do I post our meetup on meetup.com?
 
 In the center column of your group's meetup.com home page just below the title of your group you will see a plus sign (+) and the text “Suggest a new meetup”. Select that and complete the following information.
 
@@ -44,11 +44,11 @@ Here are some suggestions for event title formats that start with a targeted use
 *   Hangout: Let's chat about our sites over coffee!
 
 
-### Who is eligible to speak at my event?
+### Who is eligible to speak at our event?
 
 Event organizers for meetups should follow [the same rules as WordCamp](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/planning-details/speakers/) when finding eligible speakers. We do ask that individuals do not schedule meetups in order to sell products or services.
 
-### Can I get sponsors for my meetup?
+### Can I get sponsors for our meetup?
 
 Please read the following [post before you continue.](http://make.wordpress.org/community/2014/05/07/meetup-sponsorships-and-other-local-community-stuff/)
 
@@ -56,7 +56,7 @@ There are no specific rules around sponsorship, other than [the set of expectati
 
 Handling money for a community event can get complicated quickly (taxes! transparency!), so we suggest that any and all sponsorship be approached as "in-kind" -- for example, when a company sponsors by ordering pizzas or a sandwich platter for a certain event. Meetup group organizers should not use the group as a sponsorship/marketing platform, according to [the five good-faith rules](https://make.wordpress.org/community/meetups/).
 
-### How do I get people to attend my meetup?
+### How do I make our meetup attractive to people?
 
 There are many ways to help attract members to your event. Please keep in mind that it may take one or two tries to gain traction while others may be a smash hit from the start. Some suggestions for the event itself:
 
@@ -64,7 +64,7 @@ There are many ways to help attract members to your event. Please keep in mind t
 *   Choose a location that is easy to find and has easy or free parking.
 *   If you select a topic choose one that you are interested in or knowledgeable about.
 
-How to spread the word:
+### How do I spread the word about our metup?:
 
 *   Meetup.com: Any scheduled events will be shared with the meetup group via email. Please keep in mind users have the option to turn this feature of meetup off and may not receive your meetup emails.
 *   Meetup.com: group message board
