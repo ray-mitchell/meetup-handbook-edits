@@ -33,3 +33,5 @@ Have a photo gallery that really helps showcase your events. Use your top level 
 #### Welcome Email
 
 Finally, the welcome email is a really great way of introducing your group to new members when they’ve taken the plunge and actually joined but have not yet attended an event. It is an excellent opportunity to introduce yourselves a bit more personally to new members.
+
+[Here's a template you can use to craft your own welcome email](/resources/welcome-email.md)
