@@ -1,6 +1,31 @@
-### How do I post my meetup?
+### What sort of meetup should I organize?
 
-On the meetup.com group's home page, center column, just below the title of your group you will see a plus sign (+) and the text “Suggest a new meetup”. In order to help the group retain a non-"spammy" feel, we ask that you have the following items ready to go when you post your suggestion.
+Your WordPress meetup event can be anything you like. What are the people you've talked to about setting up your meetup interested in? Start there.  If you're looking for inspiration about the kinds of meetups that people do, here are some ideas: https://make.wordpress.org/community/handbook/meetup-organizer-handbook/planning-a-variety-of-events/
+
+### Where should I hold my meetup?
+
+Where you hold your meetup will depend on the kind of meetup you have! If it's a casual hangout, then coffee shops and public spaces are a great idea. If you're keen on doing some educational or informational meetups you may want to look at your city or town’s public education locations.
+
+Your meetup group members and their network of contacts can be a great resource for meetup venues; ask group members to  suggest venue ideas for future gatherings if one of your favorite spots suddenly becomes unavailable or if you're struggling to find somewhere to meet.
+
+Here are some locations that other WordPress meetup/user groups have found work for them:
+
+*   public library
+*   coffee shop
+*   community college
+*   state university
+*   co-office/co-working space
+*   community center
+*   the conference room of a friendly local business
+*   restaurant
+*   food court at a mall
+
+
+### How do I post my meetup on meetup.com?
+
+In the center column of your group's meetup.com home page just below the title of your group you will see a plus sign (+) and the text “Suggest a new meetup”. Select that and complete the following information.
+
+Because meetup will update your members as you make adjustments to the page, in order to help the group retain a non-"spammy" feel, we ask that you have the following items ready to go when you post your suggestion.
 
 1.  Title
 2.  Description
@@ -8,7 +33,7 @@ On the meetup.com group's home page, center column, just below the title of your
 4.  Time duration
 5.  Event Type (Presentation, Q&A, Hangout, Social, Help Desk, Other)
 
-It is suggested that your event titles start with a targeted user level or event type indication. Here are some examples:
+Here are some suggestions for event title formats that start with a targeted user level or event type to help your members quickly decide if the event is for them:
 
 *   Beginner: Managing images in WordPress
 *   Intermediate: How to troubleshoot a plugin
@@ -18,22 +43,6 @@ It is suggested that your event titles start with a targeted user level or event
 *   All Levels: WordPress Help Desk
 *   Hangout: Let's chat about our sites over coffee!
 
-### Where should I hold my meetup?
-
-You may want to look at your city or town’s public education locations. Your meetup group members and their network of contacts is another great resource: asking group members to  suggest good venue ideas for future gatherings is helpful if one of your favorite spots suddenly becomes unavailable. Here are some locations that other WordPress meetup/user groups have found work for them:
-
-*   public library
-*   coffee shop
-*   community college
-*   state university
-*   co-office/co-working space
-*   the conference room of a friendly local business
-*   restaurant
-*   food court at a mall
-
-### Do I need to have a speaker or can my meetup just be a hangout / social?
-
-Your WordPress meetup event can be anything you like. Here are some ideas: https://make.wordpress.org/community/handbook/meetup-organizer-handbook/planning-a-variety-of-events/
 
 ### Who is eligible to speak at my event?
 
