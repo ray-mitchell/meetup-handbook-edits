@@ -52,7 +52,9 @@ Event organizers for meetups should follow [the same rules as WordCamp](https://
 
 Please read the following [post before you continue.](http://make.wordpress.org/community/2014/05/07/meetup-sponsorships-and-other-local-community-stuff/)
 
-There are no specific rules around sponsorship, other than [the set of expectations for participation with official WordPress events](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/become-an-organizer/representing-wordpress/). However, we want local communities to focus on sharing knowledge and connecting with each other, not on providing a cheap marketing platform. Because handling money for a community event can get complicated quickly (taxes! transparency!), we suggest that any and all sponsorship be approached as "in-kind" -- for example, when a company sponsors by ordering pizzas or a sandwich platter for a certain event. Meetup group organizers should not use the group as a sponsorship/marketing platform, according to [the five good-faith rules](https://make.wordpress.org/community/meetups/).
+There are no specific rules around sponsorship, other than [the set of expectations for participation with official WordPress events](https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/become-an-organizer/representing-wordpress/). However, we want local communities to focus on sharing knowledge and connecting with each other, not on providing a cheap marketing platform.
+
+Handling money for a community event can get complicated quickly (taxes! transparency!), so we suggest that any and all sponsorship be approached as "in-kind" -- for example, when a company sponsors by ordering pizzas or a sandwich platter for a certain event. Meetup group organizers should not use the group as a sponsorship/marketing platform, according to [the five good-faith rules](https://make.wordpress.org/community/meetups/).
 
 ### How do I get people to attend my meetup?
 
@@ -60,7 +62,7 @@ There are many ways to help attract members to your event. Please keep in mind t
 
 *   Find a time when people can attend.
 *   Choose a location that is easy to find and has easy or free parking.
-*   If you select a topic choose one that you are interested in or knowledgeable of.
+*   If you select a topic choose one that you are interested in or knowledgeable about.
 
 How to spread the word:
 
@@ -69,4 +71,4 @@ How to spread the word:
 *   Other Groups: contacting local PHP, Javascript, social media, blogging, or open source groups (etc) to tell them about a new WordPress group in town
 *   Websites: city blogs, local tech community message boards or event listings
 *   Twitter: connect with local users who have an interest in WordPress & community
-*   Flyers: if there's a local coffee shop where you see other people blogging or coding, put up a flyer there! Same thing with your local coworking space.
+*   Flyers: if there's a local coffee shop where you see other people blogging or coding, put up a flyer there! Same thing with your local co-working space.
