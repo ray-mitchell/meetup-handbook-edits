@@ -1,0 +1,64 @@
+<h3>How do I post my meetup?</h3>
+On the meetup.com group's home page, center column, just below the title of your group you will see a plus sign (+) and the text “Suggest a new meetup”.
+
+In order to help the group retain a non-"spammy" feel, we ask that you have the following items ready to go when you post your suggestion.
+<ol>
+ 	<li>Title</li>
+ 	<li>Description</li>
+ 	<li>Location</li>
+ 	<li>Time duration</li>
+ 	<li>Event Type (Presentation, Q&amp;A, Hangout, Social, Help Desk, Other)</li>
+</ol>
+It is suggested that your event titles start with a targeted user level or event type indication. Here are some examples:
+<ul>
+ 	<li>Beginner: Managing images in WordPress</li>
+ 	<li>Intermediate: How to troubleshoot a plugin</li>
+ 	<li>Social: Bloggers meet and greet</li>
+ 	<li>Developer Beginner: Building your first plugin</li>
+ 	<li>Developer: Breakfast with Q&amp;A</li>
+ 	<li>All Levels: WordPress Help Desk</li>
+ 	<li>Hangout: Let's chat about our sites over coffee!</li>
+</ul>
+<h3>Where should I hold my meetup?</h3>
+You may want to look at your city or town’s public education locations. Your meetup group members and their network of contacts is another great resource: asking group members to  suggest good venue ideas for future gatherings is helpful if one of your favorite spots suddenly becomes unavailable. Here are some locations that other WordPress meetup/user groups have found work for them:
+<ul>
+ 	<li>public library</li>
+ 	<li>coffee shop</li>
+ 	<li>community college</li>
+ 	<li>state university</li>
+ 	<li>co-office/co-working space</li>
+ 	<li>the conference room of a friendly local business</li>
+ 	<li>restaurant</li>
+ 	<li>food court at a mall</li>
+</ul>
+<h3>Do I need to have a speaker or can my meetup just be a hangout / social?</h3>
+Your WordPress meetup event can be anything you like. Here are some ideas:
+
+https://make.wordpress.org/community/handbook/meetup-organizer-handbook/planning-a-variety-of-events/
+<h3>Who is eligible to speak at my event?</h3>
+Event organizers for meetups should follow <a href="https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/planning-details/speakers/">the same rules as WordCamp</a> when finding eligible speakers. We do ask that individuals do not schedule meetups in order to sell products or services.
+<h3>Can I get sponsors for my meetup?</h3>
+Please read the following post before you continue.
+http://make.wordpress.org/community/2014/05/07/meetup-sponsorships-and-other-local-community-stuff/
+
+There are no specific rules around sponsorship, other than <a href="https://make.wordpress.org/community/handbook/wordcamp-organizer-handbook/become-an-organizer/representing-wordpress/">the set of expectations for participation with official WordPress events</a>. However, we want local communities to focus on sharing knowledge and connecting with each other, not on providing a cheap marketing platform. Because handling money for a community event can get complicated quickly (taxes! transparency!), we suggest that any and all sponsorship be approached as "in-kind" -- for example, when a company sponsors by ordering pizzas or a sandwich platter for a certain event.
+
+Meetup group organizers should not use the group as a sponsorship/marketing platform, according to <a href="https://make.wordpress.org/community/meetups/">the five good-faith rules</a>.
+<h3>How do I get people to attend my meetup?</h3>
+There are many ways to help attract members to your event. Please keep in mind that it may take one or two tries to gain traction while others may be a smash hit from the start.
+
+Some suggestions for the event itself:
+<ul>
+ 	<li>Find a time when people can attend.</li>
+ 	<li>Choose a location that is easy to find and has easy or free parking.</li>
+ 	<li>If you select a topic choose one that you are interested in or knowledgeable of.</li>
+</ul>
+How to spread the word:
+<ul>
+ 	<li>Meetup.com: Any scheduled events will be shared with the meetup group via email. Please keep in mind users have the option to turn this feature of meetup off and may not receive your meetup emails.</li>
+ 	<li>Meetup.com: group message board</li>
+ 	<li>Other Groups: contacting local PHP, Javascript, social media, blogging, or open source groups (etc) to tell them about a new WordPress group in town</li>
+ 	<li>Websites: city blogs, local tech community message boards or event listings</li>
+ 	<li>Twitter: connect with local users who have an interest in WordPress &amp; community</li>
+ 	<li>Flyers: if there's a local coffee shop where you see other people blogging or coding, put up a flyer there! Same thing with your local coworking space.</li>
+</ul>
